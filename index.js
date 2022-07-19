@@ -2,7 +2,7 @@
 // @name         Link Checker
 // @namespace    https://github.com/Bumblebee-3
 // @version      0.1
-// @description  LOL
+// @description  Check scam links and block them
 // @author       You
 // @match        https://*/*
 // @icon         https://media.discordapp.net/attachments/908233806849392661/997890476663382048/bee_3.jpg
@@ -301,7 +301,7 @@ body, html {height: 100%}
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
     <strong>
-    Powered By: <a href="#" target="_blank">Link Checker</a><br>
+    Powered By: <a href="https://github.com/Bumblebee-3/UserScript-Malicious-link-blocker" target="_blank">Link Checker</a><br>
     Made By: <a href="https://github.com/Bumblebee-3" target="_blank">Bumblebee</a>
     </strong>
   </div>
@@ -594,7 +594,7 @@ body, html {height: 100%}
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
     <strong>
-    Powered By: <a href="#" target="_blank">Link Checker</a><br>
+    Powered By: <a href="https://github.com/Bumblebee-3/UserScript-Malicious-link-blocker" target="_blank">Link Checker</a><br>
     Made By: <a href="https://github.com/Bumblebee-3" target="_blank">Bumblebee</a>
     </strong>
   </div>
